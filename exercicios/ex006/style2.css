@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div:hover{
+    color: tomato;
+}
+
+div:hover > p{
+    display: block;
+    color: #fff;
+    background-color: tomato;
+    width: 120px
+}
+
+div > p{
+    display: none;
+}

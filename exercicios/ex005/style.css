@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+/* Em HTML é id e no CSS é # (so pode um elemento) */
+/* Em HTML é class e no CSS é .(pode varios) */
+
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: linear-gradient(to bottom,#055CB4 ,#0070E0 60%);
+
+}
+
+h1{
+    color: white;
+}
+
+#principal {
+    text-align: center;
+    background-color: #153C64;
+}
+
+
+h2{
+    color: rgb(56, 56, 56);
+}
+
+h3{
+    color: rgb(0, 0, 0);
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+.basico{
+    color: #00ff4c;
+}
+
+.intermediario{
+    color: #00d0fffa;
+}
+
+.avançado{
+    color: #fc2020b6;
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+   
